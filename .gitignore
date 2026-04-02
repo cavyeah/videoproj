@@ -1,0 +1,11 @@
+# In your videoproj folder
+echo "venv/
+colorization/
+output/
+input_videos/
+models/
+__pycache__/
+*.mp4
+*.pth
+*.pyc
+.env" > .gitignore
